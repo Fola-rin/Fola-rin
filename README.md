@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, SASS, JavaScript, Typescript, React, Redux, and Next.js**
 
-- 📫 How to reach me **oyelekefolarin@gmail.com**
+- 📫 How to reach me - **oyelekefolarin@gmail.com**
 
 - ⚡ Fun fact **I enjoy playing chess♟️. Play me @folabobo on chess.com**
 
