@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Oyeleke Afolarin</h1>
+<h1 align="left">Hi 👋, I'm Afolarin Oyeleke</h1>
 <h3 align="left">I am a frontend developer and I build flexible and efficient web applications.</h3>
 
 - 🌱 I’m currently learning **Node.js, MongoDb and Data Structures and Algorithms**
