@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Node.js, MongoDb and Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://folarin.netlify.app/](https://folarin.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://afolarin.com](https://afolarin.com)
 
-- 💬 Ask me about **HTML, CSS, SASS, JavaScript, Typescript, React, Redux, and Next.js**
+- 💬 Ask me about **HTML, CSS, SASS, JavaScript, Typescript, React, Vue, Next.js and Nuxt.js**
 
 - 📫 How to reach me - **oyelekefolarin@gmail.com**
 
